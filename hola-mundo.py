@@ -1,1 +1,2 @@
-printf(hola soy una prueba);
+def my_fun():
+print('hola soy una prueba');
